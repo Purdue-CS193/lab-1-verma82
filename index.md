@@ -1,3 +1,7 @@
+#Aditya Verma's first CS193 Lab
+- I love my TAs. Noah and Tanuj are AWESOME! Lucky Me!
+- I am excited to finally have had done the CS 193000 Lab.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
