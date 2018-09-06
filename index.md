@@ -1,6 +1,6 @@
 #Aditya Verma's first CS193 Lab
 - I love my TAs. Noah and Tanuj are AWESOME! Lucky Me!
-- I am excited to finally have had done the CS 193000 Lab.
+- I am excited to finally have done the CS 193000 Lab.
 
 ## Welcome to GitHub Pages
 
